@@ -19,11 +19,11 @@ Close Price:
 ![ClosePrice](./Image/closeprice.GIF)
 Company Search Traffic:
 ![searchtrend](./Image/search%20trends.GIF)
-Correlation Table:
+Correlation Table:                     
 ![correlation](./Image/correlation.GIF)
 
 - Generate a time series model using Prophet that analyzes and forecasts patterns from the hourly search data.
-Forecast Model:
+Forecast Model:                        
 ![forecast4](./Image/forecast4model.GIF)
 Forecast high, most likely, and worst case:
 ![forecast4_1](./Image/forecast_trends1.GIF)
