@@ -6,12 +6,12 @@ Contain a tool (forecasting_net_prophet.ipynb) that analyzes company stock price
 -  Data mine and display unusual patterns in hourly Google search traffic for a financial event such as Earning Call.                                                       
 ![Monthly_Pattern](./Image/Monthly_Search_Trends.GIF)
 
-- Evaluate the search traffic data to determine seasonality for marketing department to incorporate in the marketing plan such as when to advertise to users. 
+- Evaluate the search traffic data to determine seasonality for marketing department to incorporate in the marketing plan such as when to advertise to users.                                            
 Average Traffic by Day of Week:                   
 ![AverageTraffic](./Image/AverageTrafficdayofweek.GIF)
-Heatmap:
+Heatmap:                                                 
 ![Heatmap](./Image/Heatmap.GIF)
-Average Traffic by Week:                                    
+Average Traffic by Week:                                     
 ![Avgweek](./Image/Avgweek.GIF)
 
 - Analyze the relationship of search traffic data to the stock price patterns.
