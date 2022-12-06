@@ -10,11 +10,11 @@ Contain a tool (forecasting_net_prophet.ipynb) that analyzes company stock price
 Average Traffic by Day of Week:                   
 ![AverageTraffic](./Image/AverageTrafficdayofweek.GIF)
 Heatmap:                                                 
-![Heatmap](./Image/Heatmap.GIF)
+![Heatmap](./Image/Heatmap.GIF)     
 Average Traffic by Week:                                     
 ![Avgweek](./Image/Avgweek.GIF)
 
-- Analyze the relationship of search traffic data to the stock price patterns.
+- Analyze the relationship of search traffic data to the stock price patterns.                    
 Close Price:            
 ![ClosePrice](./Image/closeprice.GIF)
 Company Search Traffic:                 
@@ -24,17 +24,17 @@ Correlation Table:
 
 - Generate a time series model using Prophet that analyzes and forecasts patterns from the hourly search data.
 Forecast Model:                        
-![forecast4](./Image/forecast4model.GIF)
+![forecast4](./Image/forecast4model.GIF)                          
 Forecast high, most likely, and worst case:                             
-![forecast4_1](./Image/forecast_trends1.GIF)
+![forecast4_1](./Image/forecast_trends1.GIF)                           
 Forecast high, most likely, and worst case zoom in view:                    
-![forecast4_2](./Image/forecast_trends2.GIF)
+![forecast4_2](./Image/forecast_trends2.GIF)                           
 Search Traffic by Day of the Week:                        
-![forecast4_3](./Image/forecast_trends3.GIF)
+![forecast4_3](./Image/forecast_trends3.GIF)                      
 Search Traffic in Calendar Year:                         
-![forecast4_4](./Image/forecast_trends4.GIF)
+![forecast4_4](./Image/forecast_trends4.GIF)                                 
 Search Traffic by Hour:                                   
-![forecast4_5](./Image/forecast_trends5.GIF)
+![forecast4_5](./Image/forecast_trends5.GIF)                        
 
 
 - Forecast the revenue by using time series models for total sales of the next quarter. This will benefit budget planning and guidance to analysts and investors.
