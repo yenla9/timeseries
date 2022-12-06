@@ -37,6 +37,6 @@ Search Traffic by Hour:
 ![forecast4_5](./Image/forecast_trends5.GIF)                        
 
 
-- Forecast the revenue by using time series models for total sales of the next quarter. This will benefit budget planning and guidance to analysts and investors.
+- Forecast the revenue by using time series models for total sales of the next quarter. This will benefit budget planning and guidance to analysts and investors.                                    
 Revenue Forecast:
 ![forecast_5](./Image/forecast_5.GIF)
